@@ -1,0 +1,1 @@
+This prject is a fandamental basic of programing with java scripts
