@@ -1,1 +1,1 @@
-This prject is a fandamental basic of programing with java scripts
+This project is a fundamental part of learning programming with JavaScript
