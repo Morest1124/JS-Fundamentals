@@ -1,6 +1,2 @@
-import { argv } from 'node:process';
-
-
-argv.forEach((val, index) => {
-console.log(`${index}: ${val}`);
-});
+const { argv } = require('node:process');
+console.log('No arguments');
