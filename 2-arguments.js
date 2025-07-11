@@ -1,4 +1,4 @@
-import process from 'node:process';
+const process = require('process');
 
 const argCount = process.argv.length - 2;
 
@@ -7,5 +7,5 @@ if (argCount === 0) {
 } else if (argCount === 1) {
   console.log('Argument found');
 } else {
-  console.log(`Arguments found: ${argCount}`);
+  console.log('Arguments found');
 }
